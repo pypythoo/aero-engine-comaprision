@@ -1,5 +1,7 @@
 # aero-engine-comaprision
 
+🌐 Live Website: https://aeroengcomp-o4nfvkd4.manus.space/
+
 This is an educational aerospace engineering project focused on understanding and comparing real aircraft propulsion technologies from major industry players such as GE Aerospace, Rolls-Royce and Safran.
 
 ## Purpose
